@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-10-05T11:41:00+09:00",
+  "evaluation_date": "2026-10-05",
+  "previous_evaluation_date": "2026-09-05",
+  "items": [
+    {
+      "rank": 1,
+      "ticker": "102110.KS",
+      "name": "K200",
+      "previous_rank": 1
+    },
+    {
+      "rank": 2,
+      "ticker": "1306.T",
+      "name": "TOPIX",
+      "previous_rank": 2
+    },
+    {
+      "rank": 3,
+      "ticker": "VTWO",
+      "name": "R2000",
+      "previous_rank": 3
+    },
+    {
+      "rank": 4,
+      "ticker": "VOO",
+      "name": "VOO",
+      "previous_rank": 4
+    }
+  ]
+}
