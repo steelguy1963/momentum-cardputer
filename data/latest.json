@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T12:08:41+09:00",
-  "evaluation_date": "2026-10-05",
-  "previous_evaluation_date": "2026-09-05",
+  "generated_at": "2026-10-06T04:01:41+09:00",
+  "evaluation_date": "2026-10-06",
+  "previous_evaluation_date": "2026-09-06",
   "items": [
     {
       "rank": 1,
@@ -11,15 +11,15 @@
     },
     {
       "rank": 2,
-      "ticker": "1306.T",
-      "name": "TOPIX",
-      "previous_rank": 2
-    },
-    {
-      "rank": 3,
       "ticker": "VTWO",
       "name": "R2000",
       "previous_rank": 3
+    },
+    {
+      "rank": 3,
+      "ticker": "1306.T",
+      "name": "TOPIX",
+      "previous_rank": 2
     },
     {
       "rank": 4,
