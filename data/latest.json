@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T23:04:29+09:00",
-  "evaluation_date": "2026-10-25",
-  "previous_evaluation_date": "2026-09-25",
+  "generated_at": "2026-10-27T01:26:17+09:00",
+  "evaluation_date": "2026-10-27",
+  "previous_evaluation_date": "2026-09-27",
   "items": [
     {
       "rank": 1,
@@ -17,15 +17,15 @@
     },
     {
       "rank": 3,
-      "ticker": "QQQM",
-      "name": "QQQM",
-      "previous_rank": 5
-    },
-    {
-      "rank": 4,
       "ticker": "1306.T",
       "name": "TOPIX",
       "previous_rank": 3
+    },
+    {
+      "rank": 4,
+      "ticker": "QQQM",
+      "name": "QQQM",
+      "previous_rank": 5
     }
   ]
 }
