@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-27T04:23:26+09:00",
-  "evaluation_date": "2026-11-27",
-  "previous_evaluation_date": "2026-10-27",
+  "generated_at": "2026-11-28T04:19:13+09:00",
+  "evaluation_date": "2026-11-28",
+  "previous_evaluation_date": "2026-10-28",
   "items": [
     {
       "rank": 1,
       "ticker": "1306.T",
       "name": "TOPIX",
-      "previous_rank": 3
+      "previous_rank": 2
     },
     {
       "rank": 2,
       "ticker": "VOO",
       "name": "VOO",
-      "previous_rank": 2
+      "previous_rank": 3
     },
     {
       "rank": 3,
